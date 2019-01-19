@@ -1,0 +1,55 @@
+D:\LW18-2\LW18-2\bin\Debug\LW18-2.exe.config
+D:\LW18-2\LW18-2\bin\Debug\LW18-2.exe
+D:\LW18-2\LW18-2\bin\Debug\LW18-2.pdb
+D:\LW18-2\LW18-2\obj\Debug\LW18-2.csprojResolveAssemblyReference.cache
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.LoginForm.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.Properties.Resources.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.GenerateResource.Cache
+D:\LW18-2\LW18-2\obj\Debug\LW18-2.exe
+D:\LW18-2\LW18-2\obj\Debug\LW18-2.pdb
+D:\LW18-2\LW18-2\bin\Debug\Db4objects.Db4o.xml
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.RegisterForm.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.ShopForm.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ShoeForm.resources
+D:\LWDesktop\LW18-2\LW18-2\bin\Debug\LW18-2.exe.config
+D:\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.exe
+D:\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.pdb
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\bin\Debug\LW18-2.exe.config
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.exe
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.pdb
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\bin\Debug\LW18-2.exe
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\bin\Debug\LW18-2.pdb
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\bin\Debug\Db4objects.Db4o.dll
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\bin\Debug\Db4objects.Db4o.xml
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.LoginForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ShoeForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.Properties.Resources.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.RegisterForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.ShopForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.UserProfileForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ManageShoeForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.AdminForm.resources
+C:\Users\User\Desktop\LWDesktop\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.ResolveComReference.cache
+D:\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.ResolveComReference.cache
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.AdminForm.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ManageShoeForm.resources
+D:\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.UserProfileForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\bin\Debug\LW18-2.exe.config
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.ResolveComReference.cache
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18-2.exe
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18-2.pdb
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\bin\Debug\LW18-2.exe
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\bin\Debug\LW18-2.pdb
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\bin\Debug\Db4objects.Db4o.xml
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18-2.csprojResolveAssemblyReference.cache
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.AdminForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.LoginForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ManageShoeForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.ShoeForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.Forms.UserProfileForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.Properties.Resources.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.RegisterForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18_2.ShopForm.resources
+D:\165_LW18-2_LW 18-2 Desktop Qualification Revision 1\LW 18-2 Desktop Qualification Revision 1\LW18-2\LW18-2\obj\Debug\LW18-2.csproj.GenerateResource.Cache
